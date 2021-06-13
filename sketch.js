@@ -36,11 +36,11 @@ function draw() {
 function add() {
   var n1= parseInt(num1.value())
   var n2= parseInt(num2.value())
-  console.log(n1+n2);
+  alert(n1+n2);
 }
 
 function mul() {
   var n1= parseInt(num1.value())
   var n2= parseInt(num2.value())
-  console.log(n1*n2);
+  alert(n1*n2);
 }
